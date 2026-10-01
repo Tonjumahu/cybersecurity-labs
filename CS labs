@@ -1,0 +1,20 @@
+cybersecurity-labs/
+│
+├── README.md
+├── 01-foundations/
+├── 02-network-security/
+├── 03-linux-windows/
+├── 04-reconnaissance/
+├── 05-web-security/
+├── 06-vapt/
+├── 07-active-directory/
+├── 08-cryptography/
+├── 09-blue-team/
+├── 10-incident-response/
+├── 11-threat-intelligence/
+├── 12-cloud-security/
+├── 13-secure-development/
+├── 14-risk-governance/
+├── projects/
+├── reports/
+└── evidence/
