@@ -1,0 +1,19 @@
+# Cybersecurity Labs
+
+A documented record of my cybersecurity training and hands-on work.
+
+## Objectives
+
+- Rebuild cybersecurity fundamentals
+- Develop practical security skills
+- Conduct authorized security assessments
+- Document methodology and findings
+- Build security automation projects
+- Develop blue-team and incident-response skills
+- Build a professional cybersecurity portfolio
+
+## Lab Philosophy
+
+All offensive-security testing is performed only against systems I own,
+intentionally vulnerable machines, training environments, or systems for
+which I have explicit authorization.
